@@ -47,4 +47,4 @@ $ ./create_dashboard.sh
 
 Thank you for using this automation script.
 
-Please feel free to contact me at arunava.basu@nbcuni.com for any clarification.
+
