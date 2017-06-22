@@ -1,0 +1,85 @@
+---
+datadog_api_key: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+datadog_app_key: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+boardtitle: "dev-asz-pcf-ab"
+originaltitle: "dev-asz-pcf-ab"
+mainheader: "Dev ASZ DASHBOARD"
+dd_agent_hostname: "DevAsz-ops-manager"
+cf_deployment: "cf-7ef78331cc72b3c09045"
+rabbit_deployment: "p-rabbitmq-18aaf5daa37352015143"
+redis_deployment: "p-redis-dd20e0646054e6ae58b5"
+mysql_deployment: "p-mysql-2da5ad350dff8216f310"
+diego:
+  0: 172.28.96.35
+  1: 172.28.96.36
+  2: 172.28.96.37
+  3: 172.28.96.47
+  4: 172.28.96.49
+  5: 172.28.96.50
+  6: 172.28.96.46
+  7: 172.28.96.48
+  8: 
+router:
+  0: 172.28.96.250
+  1: 172.28.96.251
+  2: 172.28.96.252
+  3: 172.28.96.253
+  4: 
+  5: 
+  6: 
+  7: 
+  8:
+uaa:
+  0: 172.28.96.28
+  1: 172.28.96.40
+  2: 172.28.96.41
+cc:
+  0: 172.28.96.29
+  1: 172.28.96.42
+  2: 172.28.96.43
+nats:
+  0: 172.28.96.22
+  1: 172.28.96.62
+  2: 172.28.96.63
+etcd:
+  0: 172.28.96.23
+  1:
+  2:
+doppler:
+  0: 172.28.96.38
+  1: 172.28.96.51
+  2: 172.28.96.52
+diegobrain:
+  0: 172.28.96.34
+  1: 172.28.96.70
+  2: 172.28.96.71
+rabbitserver:
+  0: 172.28.97.21
+  1: 172.28.97.22
+rabbitproxy:
+  0: 172.28.97.23
+  1:
+rabbitbroker:
+  0: 172.28.97.24
+  1:
+redisbroker:
+  0: 172.28.97.53
+redisdedicatednode:
+  0: 172.28.97.54
+  1: 172.28.97.55
+  2: 172.28.97.56
+  3: 172.28.97.57
+  4: 172.28.97.58
+  5:
+mysqlserver:
+  0: 172.28.97.31
+  1: 172.28.97.32
+  2: 172.28.97.33
+mysqlproxy:
+  0: 172.28.97.34
+  1: 172.28.97.35
+  2: 172.28.97.73
+mysqlbroker:
+  0: 172.28.97.26
+  1: 172.28.97.27
+  2: 172.28.97.28
